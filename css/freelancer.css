@@ -515,7 +515,14 @@ fieldset[disabled] .btn-success.active {
 .portfolio-modal .modal-content img {
   margin-bottom: 30px;
 }
-.portfolio-modal .modal-content video {
+.videoInsert {
+	max-width: 100%; 
+    max-height: 100%;
+    width: auto; 
+    height: auto; 
+    overflow: hidden;
+}
+video {
   margin-bottom: 30px;
 }
 .portfolio-modal .modal-content .item-details {
