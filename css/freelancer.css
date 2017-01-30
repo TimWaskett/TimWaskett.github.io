@@ -539,6 +539,7 @@ video {
 	padding-top:0px;
 	height:0;
 	overflow:hidden;
+	margin-bottom: 30px
 }
 .video-container iframe, .video-container object, .video-container embed {
 	position:absolute;
